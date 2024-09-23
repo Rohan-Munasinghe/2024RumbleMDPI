@@ -1,0 +1,1829 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2024.8.13)  23 SEP 2024 14:40
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./RumbleMDPI.tex
+(RumbleMDPI.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-04-20> (Definitions/mdpi.cls
+Document Class: Definitions/mdpi 12/08/2022 MDPI paper class
+(E:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(E:\Program Files\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(E:\Program Files\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(E:\Program Files\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(E:\Program Files\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count193
+\calc@Bcount=\count194
+\calc@Adimen=\dimen141
+\calc@Bdimen=\dimen142
+\calc@Askip=\skip50
+\calc@Bskip=\skip51
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count195
+\calc@Cskip=\skip52
+)
+(E:\Program Files\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip53
+\f@nch@O@elh=\skip54
+\f@nch@O@erh=\skip55
+\f@nch@O@olh=\skip56
+\f@nch@O@orh=\skip57
+\f@nch@O@elf=\skip58
+\f@nch@O@erf=\skip59
+\f@nch@O@olf=\skip60
+\f@nch@O@orf=\skip61
+)
+(E:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(E:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(E:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(E:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(E:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(E:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen143
+\Gin@req@width=\dimen144
+)
+(E:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf.sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(E:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(E:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(E:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(E:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)))
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/lastpage\lastpage.sty
+Package: lastpage 2024/07/07 v2.1c lastpage: 2.09 or 2e? (HMM)
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/lastpage\lastpage2e.sty
+Package: lastpage2e 2024/07/07 v2.1c Decide which 2e lastpage version to use (H
+MM)
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/lastpage\lastpageclassic.sty
+Package: lastpageclassic 2024/07/07 v2.1c Refers to last page's name (HMM; JPG)
+
+)
+
+)) (E:\Program Files\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/lineno\lineno.sty
+Package: lineno 2023/05/20 line numbers on paragraphs v5.3
+
+(E:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count196
+)
+\linenopenalty=\count197
+\output=\toks19
+\linenoprevgraf=\count198
+\linenumbersep=\dimen145
+\linenumberwidth=\dimen146
+\c@linenumber=\count199
+\c@pagewiselinenumber=\count266
+\c@LN@truepage=\count267
+\c@internallinenumber=\count268
+\c@internallinenumbers=\count269
+\quotelinenumbersep=\dimen147
+\bframerule=\dimen148
+\bframesep=\dimen149
+\bframebox=\box51
+LaTeX Info: Redefining \\ on input line 3180.
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count270
+\float@exts=\toks20
+\float@box=\box52
+\@float@everytoks=\toks21
+\@floatcapt=\box53
+)
+(E:\Program Files\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2022/04/08 v2.17n AMS math features
+\@mathmargin=\skip62
+
+For additional information on amsmath, use the `?' option.
+(E:\Program Files\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(E:\Program Files\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen150
+))
+(E:\Program Files\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen151
+)
+(E:\Program Files\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count271
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count272
+\leftroot@=\count273
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count274
+\DOTSCASE@=\count275
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen152
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count276
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count277
+\dotsspace@=\muskip16
+\c@parentequation=\count278
+\dspbrk@lvl=\count279
+\tag@help=\toks23
+\row@=\count280
+\column@=\count281
+\maxfields@=\count282
+\andhelp@=\toks24
+\eqnshift@=\dimen153
+\alignsep@=\dimen154
+\tagshift@=\dimen155
+\tagwidth@=\dimen156
+\totwidth@=\dimen157
+\lineht@=\dimen158
+\@envbody=\toks25
+\multlinegap=\skip63
+\multlinetaggap=\skip64
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+\linenoamsmath@ams@eqpen=\count283
+
+(E:\Program Files\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(E:\Program Files\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip65
+\enit@outerparindent=\dimen159
+\enit@toks=\toks27
+\enit@inbox=\box56
+\enit@count@id=\count284
+\enitdp@description=\count285
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/psnfss\mathpazo.sty
+Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup6
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen160
+\lightrulewidth=\dimen161
+\cmidrulewidth=\dimen162
+\belowrulesep=\dimen163
+\belowbottomsep=\dimen164
+\aboverulesep=\dimen165
+\abovetopsep=\dimen166
+\cmidrulesep=\dimen167
+\cmidrulekern=\dimen168
+\defaultaddspace=\dimen169
+\@cmidla=\count286
+\@cmidlb=\count287
+\@aboverulesep=\dimen170
+\@belowrulesep=\dimen171
+\@thisruleclass=\count288
+\@lastruleclass=\count289
+\@thisrulewidth=\dimen172
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box57
+\beforetitleunit=\skip66
+\aftertitleunit=\skip67
+\ttl@plus=\dimen173
+\ttl@minus=\dimen174
+\ttl@toksa=\toks28
+\titlewidth=\dimen175
+\titlewidthlast=\dimen176
+\titlewidthfirst=\dimen177
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/tabto-ltx\tabto.sty
+Package: tabto 2018/12/28  v 1.4  Another tabbing mechanism
+\CurrentLineWidth=\dimen178
+\TabPrevPos=\dimen179
+)
+(E:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(E:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(E:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
+
+(E:\Program Files\MiKTeX\tex/latex/tools\array.sty
+Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen180
+\ar@mcellbox=\box58
+\extrarowheight=\dimen181
+\NC@list=\toks29
+\extratabsurround=\skip68
+\backup@length=\skip69
+\ar@cellbox=\box59
+)
+\everycr=\toks30
+\minrowclearance=\skip70
+\rownum=\count290
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/generic/soul\soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/generic/soul\soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks31
+\SOUL@lasttoken=\toks32
+\SOUL@syllable=\toks33
+\SOUL@cmds=\toks34
+\SOUL@buffer=\toks35
+\SOUL@token=\toks36
+\SOUL@syllgoal=\dimen182
+\SOUL@syllwidth=\dimen183
+\SOUL@charkern=\dimen184
+\SOUL@hyphkern=\dimen185
+\SOUL@dimen=\dimen186
+\SOUL@dimeni=\dimen187
+\SOUL@minus=\count291
+\SOUL@comma=\count292
+\SOUL@apo=\count293
+\SOUL@grave=\count294
+\SOUL@spaceskip=\skip71
+\SOUL@ttwidth=\dimen188
+\SOUL@uldp=\dimen189
+\SOUL@ulht=\dimen190
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+))
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip72
+\multirow@cntb=\count295
+\multirow@dima=\skip73
+\bigstrutjot=\dimen191
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2024/03/29 v3.1b Micro-typographical refinements (RS)
+\MT@toks=\toks37
+\MT@tempbox=\box60
+\MT@count=\count296
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1061.
+LaTeX Info: Redefining \leftprotrusion on input line 1062.
+\MT@prot@toks=\toks38
+LaTeX Info: Redefining \rightprotrusion on input line 1081.
+LaTeX Info: Redefining \textls on input line 1392.
+\MT@outer@kern=\dimen192
+LaTeX Info: Redefining \textmicrotypecontext on input line 2013.
+\MT@listname@count=\count297
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2024/03/29 v3.1b Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip74
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2024/03/29 v3.1b microtype main configuration file (RS)
+))
+(E:\Program Files\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty
+(E:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(E:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+(E:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks39
+\pgfutil@tempdima=\dimen193
+\pgfutil@tempdimb=\dimen194
+)
+(E:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box61
+)
+(E:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex
+(E:\Program Files\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(E:\Program Files\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.sty
+(E:\Program Files\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.sty
+(E:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(E:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks40
+\pgfkeys@temptoks=\toks41
+
+(E:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.
+tex
+\pgfkeys@tmptoks=\toks42
+))
+\pgf@x=\dimen195
+\pgf@y=\dimen196
+\pgf@xa=\dimen197
+\pgf@ya=\dimen198
+\pgf@xb=\dimen199
+\pgf@yb=\dimen256
+\pgf@xc=\dimen257
+\pgf@yc=\dimen258
+\pgf@xd=\dimen259
+\pgf@yd=\dimen260
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count298
+\c@pgf@countb=\count299
+\c@pgf@countc=\count300
+\c@pgf@countd=\count301
+\t@pgf@toka=\toks43
+\t@pgf@tokb=\toks44
+\t@pgf@tokc=\toks45
+\pgf@sys@id@count=\count302
+ (E:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(E:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(E:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(E:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count303
+\pgfsyssoftpath@bigbuffer@items=\count304
+)
+(E:\Program Files\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(E:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(E:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex
+(E:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex)
+(E:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen261
+\pgfmath@count=\count305
+\pgfmath@box=\box62
+\pgfmath@toks=\toks46
+\pgfmath@stack@operand=\toks47
+\pgfmath@stack@operation=\toks48
+)
+(E:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex)
+(E:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex)
+(E:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.co
+de.tex)
+(E:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex)
+
+(E:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.
+tex)
+(E:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex)
+(E:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex)
+(E:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex)
+(E:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmeti
+cs.code.tex) (E:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex
+) (E:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count306
+))
+(E:\Program Files\MiKTeX\tex/generic/pgf/math\pgfint.code.tex)
+(E:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen262
+\pgf@picmaxx=\dimen263
+\pgf@picminy=\dimen264
+\pgf@picmaxy=\dimen265
+\pgf@pathminx=\dimen266
+\pgf@pathmaxx=\dimen267
+\pgf@pathminy=\dimen268
+\pgf@pathmaxy=\dimen269
+\pgf@xx=\dimen270
+\pgf@xy=\dimen271
+\pgf@yx=\dimen272
+\pgf@yy=\dimen273
+\pgf@zx=\dimen274
+\pgf@zy=\dimen275
+)
+(E:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathconstruct.code.t
+ex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen276
+\pgf@path@lasty=\dimen277
+)
+(E:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen278
+\pgf@shorten@start@additional=\dimen279
+)
+(E:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box63
+\pgf@hbox=\box64
+\pgf@layerbox@main=\box65
+\pgf@picture@serial@count=\count307
+)
+(E:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.te
+x
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen280
+)
+(E:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransformations.code
+.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen281
+\pgf@pt@y=\dimen282
+\pgf@pt@temp=\dimen283
+) (E:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (E:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepathprocessing.code.
+tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (E:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen284
+) (E:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen285
+\pgf@sys@shading@range@num=\count308
+\pgf@shadingcount=\count309
+)
+(E:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box66
+)
+(E:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcoretransparency.code.te
+x
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (E:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (E:\Program Files\MiKTeX\tex/generic/pgf/basiclayer\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(E:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box67
+)
+(E:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(E:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen286
+\pgf@nodesepend=\dimen287
+)
+(E:\Program Files\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (E:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+(E:\Program Files\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty
+(E:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex))
+(E:\Program Files\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(E:\Program Files\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex))
+(E:\Program Files\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen288
+\pgffor@skip=\dimen289
+\pgffor@stack=\toks49
+\pgffor@toks=\toks50
+))
+(E:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(E:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.
+tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count310
+\pgfplotmarksize=\dimen290
+)
+\tikz@lastx=\dimen291
+\tikz@lasty=\dimen292
+\tikz@lastxsaved=\dimen293
+\tikz@lastysaved=\dimen294
+\tikz@lastmovetox=\dimen295
+\tikz@lastmovetoy=\dimen296
+\tikzleveldistance=\dimen297
+\tikzsiblingdistance=\dimen298
+\tikz@figbox=\box68
+\tikz@figbox@bg=\box69
+\tikz@tempbox=\box70
+\tikz@tempbox@bg=\box71
+\tikztreelevel=\count311
+\tikznumberofchildren=\count312
+\tikznumberofcurrentchild=\count313
+\tikz@fig@count=\count314
+ (E:\Program Files\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count315
+\pgfmatrixcurrentcolumn=\count316
+\pgf@matrix@numberofcolumns=\count317
+)
+\tikz@expandcount=\count318
+
+(E:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+rytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/totcount\totcount.sty
+Package: totcount 2011/01/25 v1.2 package for gettingthe total value of LaTeX c
+ounters
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/changepage\changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count319
+\cp@tempcnt=\count320
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/frankenstein\attrib.sty
+Package: attrib 2001/08/31 v1.3 attribution of block elements (Frankenstein's h
+at)
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/frankenstein\moredefs.sty
+Package: moredefs 2001/08/31 v1.8 more defining commands (Frankenstein's brain)
+
+\sc@toks@a=\toks51
+\sc@toks@b=\toks52
+)
+\AttribMinSkip=\skip75
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/was\upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+)
+(E:\Program Files\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen299
+\TX@old@table=\dimen300
+\TX@old@col=\dimen301
+\TX@target=\dimen302
+\TX@delta=\dimen303
+\TX@cols=\count321
+\TX@ftn=\toks53
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/pbox\pbox.sty
+Package: pbox 2011/12/07 v1.2 Dynamic parboxes
+\pb@xlen=\skip76
+)
+(E:\Program Files\MiKTeX\tex/latex/ragged2e\ragged2e.sty
+Package: ragged2e 2023/04/04 v3.5 ragged2e Package
+\CenteringLeftskip=\skip77
+\RaggedLeftLeftskip=\skip78
+\RaggedRightLeftskip=\skip79
+\CenteringRightskip=\skip80
+\RaggedLeftRightskip=\skip81
+\RaggedRightRightskip=\skip82
+\CenteringParfillskip=\skip83
+\RaggedLeftParfillskip=\skip84
+\RaggedRightParfillskip=\skip85
+\JustifyingParfillskip=\skip86
+\CenteringParindent=\skip87
+\RaggedLeftParindent=\skip88
+\RaggedRightParindent=\skip89
+\JustifyingParindent=\skip90
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip91
+\cftbeforetoctitleskip=\skip92
+\cftaftertoctitleskip=\skip93
+\cftbeforepartskip=\skip94
+\cftpartnumwidth=\skip95
+\cftpartindent=\skip96
+\cftbeforesecskip=\skip97
+\cftsecindent=\skip98
+\cftsecnumwidth=\skip99
+\cftbeforesubsecskip=\skip100
+\cftsubsecindent=\skip101
+\cftsubsecnumwidth=\skip102
+\cftbeforesubsubsecskip=\skip103
+\cftsubsubsecindent=\skip104
+\cftsubsubsecnumwidth=\skip105
+\cftbeforeparaskip=\skip106
+\cftparaindent=\skip107
+\cftparanumwidth=\skip108
+\cftbeforesubparaskip=\skip109
+\cftsubparaindent=\skip110
+\cftsubparanumwidth=\skip111
+\cftbeforeloftitleskip=\skip112
+\cftafterloftitleskip=\skip113
+\cftbeforefigskip=\skip114
+\cftfigindent=\skip115
+\cftfignumwidth=\skip116
+\c@lofdepth=\count322
+\c@lotdepth=\count323
+\cftbeforelottitleskip=\skip117
+\cftafterlottitleskip=\skip118
+\cftbeforetabskip=\skip119
+\cfttabindent=\skip120
+\cfttabnumwidth=\skip121
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/marginnote\marginnote.sty
+Package: marginnote 2018/08/09 1.4b non floating margin notes for LaTeX
+\c@mn@abspage=\count324
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/marginfix\marginfix.sty
+Package: marginfix 2020/05/06 v1.2 Fix Margin Paragraphs
+\Mfx@inject@insert=\insert252
+\Mfx@marginbox=\box72
+\Mfx@marginpos@min=\dimen304
+\Mfx@marginpos@max=\dimen305
+\Mfx@marginspace=\dimen306
+\Mfx@marginheight=\dimen307
+\Mfx@piece@content=\box73
+\Mfx@piece@count=\count325
+\Mfx@mparshift=\dimen308
+\marginheightadjustment=\dimen309
+\marginposadjustment=\dimen310
+\Mfx@strutheight=\dimen311
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/enotez\enotez.sty
+(E:\Program Files\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-04-20 L3 programming layer (loader) 
+
+(E:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count326
+\l__pdf_internal_box=\box74
+))
+(E:\Program Files\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
+Package: xparse 2023-02-02 L3 Experimental document command parser
+)
+(E:\Program Files\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+)
+(E:\Program Files\MiKTeX\tex/latex/l3packages/xtemplate\xtemplate.sty
+Package: xtemplate 2023-02-02 L3 Experimental prototype document functions
+\l__xtemplate_tmp_dim=\dimen312
+\l__xtemplate_tmp_int=\count327
+\l__xtemplate_tmp_muskip=\muskip17
+\l__xtemplate_tmp_skip=\skip122
+)
+Package: enotez 2022/01/04 v0.10d Endnotes for LaTeX2e
+\l__enotez_list_preamble_skip=\skip123
+\l__enotez_list_postamble_skip=\skip124
+\g__enotez_endnote_id_int=\count328
+\g__enotez_endnote_mark_int=\count329
+\c@endnote=\count330
+\g__enotez_list_printed_int=\count331
+\l__enotez_tmpa_int=\count332
+
+Package xtemplate Info: Declaring object type 'enotez-list' taking 1
+(xtemplate)             argument(s) on line 473.
+
+\l__enotez_list_notes_sep_dim=\dimen313
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/translations\translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+)) (Definitions/journalnames.tex)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks54
+\thm@bodyfont=\toks55
+\thm@headfont=\toks56
+\thm@notefont=\toks57
+\thm@headpunct=\toks58
+\thm@preskip=\skip125
+\thm@postskip=\skip126
+\thm@headsep=\skip127
+\dth@everypar=\toks59
+)
+\c@theorem=\count333
+\c@lemma=\count334
+\c@corollary=\count335
+\c@proposition=\count336
+\c@characterization=\count337
+\c@property=\count338
+\c@problem=\count339
+\c@example=\count340
+\c@examplesanddefinitions=\count341
+\c@remark=\count342
+\c@definition=\count343
+\c@hypothesis=\count344
+\c@notation=\count345
+\c@assumption=\count346
+\c@algorithm=\count347
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip128
+\bibsep=\skip129
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count348
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrextend.sty
+Package: scrextend 2023/07/07 v3.41 KOMA-Script package (extend other classes w
+ith features of KOMA-Script classes)
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrkbase.sty
+Package: scrkbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrbase.sty
+Package: scrbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlfile.sty
+Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlfile-hook.sty
+Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
+
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/koma-script\scrlogo.sty
+Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
+)))
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+)))
+(E:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@page@totc=\count349
+\MyLen=\skip130
+\MyBox=\box75
+\leftcolumnlength=\skip131
+\extralength=\skip132
+\fulllength=\skip133
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(E:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count350
+\Gm@cntv=\count351
+\c@Gm@tempcnt=\count352
+\Gm@bindingoffset=\dimen314
+\Gm@wd@mp=\dimen315
+\Gm@odd@mp=\dimen316
+\Gm@even@mp=\dimen317
+\Gm@layoutwidth=\dimen318
+\Gm@layoutheight=\dimen319
+\Gm@layouthoffset=\dimen320
+\Gm@layoutvoffset=\dimen321
+\Gm@dimlist=\toks60
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/newfloat\newfloat.sty
+Package: newfloat 2023/10/01 v1.2 Defining new floating environments (AR)
+)
+Package newfloat Info: New float `listing' with options `' on input line 1381.
+\c@listing=\count353
+Package newfloat Info: float type `listing'=4 on input line 1381.
+\c@lolistingdepth=\count354
+Package newfloat Info: New float `boxenv' with options `name=Box' on input line
+ 1382.
+\c@boxenv=\count355
+Package newfloat Info: float type `boxenv'=8 on input line 1382.
+\c@loboxenvdepth=\count356
+Package newfloat Info: New float `chart' with options `' on input line 1383.
+\c@chart=\count357
+Package newfloat Info: float type `chart'=16 on input line 1383.
+\c@lochartdepth=\count358
+Package newfloat Info: New float `scheme' with options `' on input line 1384.
+\c@scheme=\count359
+Package newfloat Info: float type `scheme'=32 on input line 1384.
+\c@loschemedepth=\count360
+Package newfloat Info: New float `figurewide' with options `' on input line 138
+5.
+\c@figurewide=\count361
+Package newfloat Info: float type `figurewide'=64 on input line 1385.
+\c@lofigurewidedepth=\count362
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2022/03/01 v3.6b Customizing captions (AR)
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+\caption@tempdima=\dimen322
+\captionmargin=\dimen323
+\caption@leftmargin=\dimen324
+\caption@rightmargin=\dimen325
+\caption@width=\dimen326
+\caption@indent=\dimen327
+\caption@parindent=\dimen328
+\caption@hangindent=\dimen329
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count363
+\c@continuedfloat=\count364
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen330
+\caption@adjustwidth@linewidth=\dimen331
+Package caption Info: float package is loaded.
+)
+\@justcentbox=\box76
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/seqsplit\seqsplit.sty
+Package: seqsplit 2006/08/07 v0.1 Splitting long sequences (DNA, RNA, proteins,
+ etc.) 
+)
+\cellWidtha=\skip134
+\cellWidthb=\skip135
+\cellWidthc=\skip136
+\cellWidthd=\skip137
+\cellWidthe=\skip138
+\cellWidthf=\skip139
+\cellWidthg=\skip140
+\cellWidthh=\skip141
+\cellWidthi=\skip142
+\cellWidthj=\skip143
+\cellWidthk=\skip144
+\cellWidthl=\skip145
+\cellWidthm=\skip146
+\cellWidthn=\skip147
+\cellWidtho=\skip148
+\cellWidthp=\skip149
+\cellWidthq=\skip150
+\cellWidthr=\skip151
+\cellWidths=\skip152
+\cellWidtht=\skip153
+\cellWidthu=\skip154
+\cellWidthv=\skip155
+\cellWidthw=\skip156
+\cellWidthx=\skip157
+\cellWidthy=\skip158
+\cellWidthz=\skip159
+\cellWidthA=\skip160
+\cellWidthB=\skip161
+\cellWidthC=\skip162
+\cellWidthD=\skip163
+\cellWidthE=\skip164
+\cellWidthF=\skip165
+\cellWidthG=\skip166
+\cellWidthH=\skip167
+\cellWidthI=\skip168
+\cellWidthJ=\skip169
+\cellWidthK=\skip170
+\cellWidthL=\skip171
+\cellWidthM=\skip172
+\cellWidthN=\skip173
+\cellWidthO=\skip174
+\cellWidthP=\skip175
+\cellWidthQ=\skip176
+\cellWidthR=\skip177
+\cellWidthS=\skip178
+\cellWidthT=\skip179
+\cellWidthU=\skip180
+\cellWidthV=\skip181
+\cellWidthW=\skip182
+\cellWidthX=\skip183
+\cellWidthY=\skip184
+\cellWidthZ=\skip185
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+\c@subfigure=\count365
+\c@subtable=\count366
+\c@sublisting=\count367
+\c@subboxenv=\count368
+\c@subchart=\count369
+\c@subscheme=\count370
+\c@subfigurewide=\count371
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/algorithm2e\algorithm2e.sty
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count372
+\algocf@hangindent=\skip186
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count373
+LaTeX Info: Redefining \checkoddpage on input line 45.
+)
+(E:\Program Files\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/relsize\relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip187
+\skiplinenumber=\skip188
+\skiprule=\skip189
+\skiphlne=\skip190
+\skiptext=\skip191
+\skiplength=\skip192
+\algomargin=\skip193
+\skipalgocfslide=\skip194
+\algowidth=\dimen332
+\inoutsize=\dimen333
+\inoutindent=\dimen334
+\interspacetitleruled=\dimen335
+\interspacealgoruled=\dimen336
+\interspacetitleboxruled=\dimen337
+\algocf@ruledwidth=\skip195
+\algocf@inoutbox=\box77
+\algocf@inputbox=\box78
+\AlCapSkip=\skip196
+\AlCapHSkip=\skip197
+\algoskipindent=\skip198
+\algocf@nlbox=\box79
+\algocf@hangingbox=\box80
+\algocf@untilbox=\box81
+\algocf@skipuntil=\skip199
+\algocf@capbox=\box82
+\algocf@lcaptionbox=\skip256
+\algoheightruledefault=\skip257
+\algoheightrule=\skip258
+\algotitleheightruledefault=\skip259
+\algotitleheightrule=\skip260
+\c@algocfline=\count374
+\c@algocfproc=\count375
+\c@algocf=\count376
+\algocf@algoframe=\box83
+\algocf@algobox=\box84
+)
+(E:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(E:\Program Files\MiKTeX\tex/generic/pgf/libraries/shapes\pgflibraryshapes.geom
+etric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(E:\Program Files\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibra
+ryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(E:\Program Files\MiKTeX\tex/generic/pgf/libraries\pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\arrowsize=\dimen338
+))
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 94.
+
+(E:\Program Files\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-04-22 v7.00x Hypertext links for LaTeX
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(E:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/generic/gettitlestring\gettitlestring
+.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count377
+)
+\@linkdim=\dimen339
+\Hy@linkcounter=\count378
+\Hy@pagecounter=\count379
+ (E:\Program Files\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-04-22 v7.00x Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count380
+
+(E:\Program Files\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-04-22 v7.00x Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4065.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4065.
+Package hyperref Info: Option `pdffitwindow' set `true' on input line 4065.
+Package hyperref Info: Option `colorlinks' set `true' on input line 4065.
+Package hyperref Info: Option `hyperfootnotes' set `true' on input line 4065.
+Package hyperref Info: Hyper figures OFF on input line 4182.
+Package hyperref Info: Link nesting OFF on input line 4187.
+Package hyperref Info: Hyper index ON on input line 4190.
+Package hyperref Info: Plain pages OFF on input line 4197.
+Package hyperref Info: Backreferencing OFF on input line 4202.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4449.
+\c@Hy@tempcnt=\count381
+LaTeX Info: Redefining \url on input line 4787.
+\XeTeXLinkMargin=\dimen340
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count382
+\Field@Width=\dimen341
+\Fld@charsize=\dimen342
+Package hyperref Info: Hyper figures OFF on input line 6066.
+Package hyperref Info: Link nesting OFF on input line 6071.
+Package hyperref Info: Hyper index ON on input line 6074.
+Package hyperref Info: backreferencing OFF on input line 6081.
+Package hyperref Info: Link coloring ON on input line 6084.
+Package hyperref Info: Link coloring with OCG OFF on input line 6091.
+Package hyperref Info: PDF/A mode OFF on input line 6096.
+
+(E:\Program Files\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count383
+\c@Item=\count384
+\c@Hfootnote=\count385
+)
+Package hyperref Info: Driver: hpdftex.
+
+(E:\Program Files\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-04-22 v7.00x Hyperref driver for pdfTeX
+
+(E:\Program Files\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count386
+\c@bookmark@seq@number=\count387
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.s
+ty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/generic/uniquecounter\uniquecounter.s
+ty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip261
+)
+LaTeX Font Info:    Trying to load font information for T1+ppl on input line 94
+.
+ (C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/psnfss\t1ppl.fd
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+(RumbleMDPI.aux)
+\openout1 = `RumbleMDPI.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+ (E:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count388
+\scratchdimen=\dimen343
+\scratchbox=\box85
+\nofMPsegments=\count389
+\nofMParguments=\count390
+\everyMPshowfont=\toks61
+\MPscratchCnt=\count391
+\MPscratchDim=\dimen344
+\MPnumerator=\count392
+\makeMPintoPDFobject=\count393
+\everyMPtoPDFconversion=\toks62
+)
+LaTeX Info: Redefining \microtypecontext on input line 94.
+Package microtype Info: Applying patch `item' on input line 94.
+Package microtype Info: Applying patch `toc' on input line 94.
+Package microtype Info: Applying patch `eqnum' on input line 94.
+Package microtype Info: Applying patch `footnote' on input line 94.
+Package microtype Info: Applying patch `verbatim' on input line 94.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 94.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-ppl.cfg
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+)
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/translations/dicts\translations
+-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 94.
+
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(167.01753pt, 394.35522pt, 36.13512pt)
+* v-part:(T,H,B)=(51.21504pt, 772.49225pt, 21.33955pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=394.35522pt
+* \textheight=688.49225pt
+* \oddsidemargin=94.74754pt
+* \evensidemargin=94.74754pt
+* \topmargin=-21.05495pt
+* \headheight=12.0pt
+* \headsep=24.0pt
+* \topskip=10.0pt
+* \footskip=48.0pt
+* \marginparwidth=116.65646pt
+* \marginparsep=14.51074pt
+* \columnsep=10.0pt
+* \skip\footins=17.07182pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemargintrue
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package newfloat Info: `float' package detected.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring ON on input line 94.
+(RumbleMDPI.out) (RumbleMDPI.out)
+\@outlinefile=\write4
+\openout4 = `RumbleMDPI.out'.
+
+Package epstopdf Info: Source file: <Definitions/logo-updates.eps>
+(epstopdf)                    date: 2024-09-23 14:39:41
+(epstopdf)                    size: 253542 bytes
+(epstopdf)             Output file: <Definitions/logo-updates-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-23 14:40:48
+(epstopdf)                    size: 15563 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=Definitions/logo-upd
+ates-eps-converted-to.pdf Definitions/logo-updates.eps>
+(epstopdf)             \includegraphics on input line 94.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./Definitions/logo-updates-eps-converted-to.
+pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<Definitions/logo-updates-eps-converted-to.pdf, id=114, 828.09375pt x 275.0275p
+t>
+File: Definitions/logo-updates-eps-converted-to.pdf Graphic file (type pdf)
+<use Definitions/logo-updates-eps-converted-to.pdf>
+Package pdftex.def Info: Definitions/logo-updates-eps-converted-to.pdf  used on
+ input line 94.
+(pdftex.def)             Requested size: 51.40193pt x 17.07182pt.
+Package epstopdf Info: Source file: <Definitions/logo-ccby.eps>
+(epstopdf)                    date: 2024-09-23 14:39:40
+(epstopdf)                    size: 484140 bytes
+(epstopdf)             Output file: <Definitions/logo-ccby-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2024-09-23 14:39:40
+(epstopdf)                    size: 12001 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=Definitions/logo-ccb
+y-eps-converted-to.pdf Definitions/logo-ccby.eps>
+(epstopdf)             \includegraphics on input line 94.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./Definitions/logo-ccby-eps-converted-to.pdf
+): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Definitions/logo-ccby-eps-converted-to.pdf, id=117, 120.45pt x 42.1575pt>
+File: Definitions/logo-ccby-eps-converted-to.pdf Graphic file (type pdf)
+<use Definitions/logo-ccby-eps-converted-to.pdf>
+Package pdftex.def Info: Definitions/logo-ccby-eps-converted-to.pdf  used on in
+put line 94.
+(pdftex.def)             Requested size: 56.9055pt x 19.91693pt.
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 9
+4.
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/psnfss\ts1ppl.fd
+File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
+)
+Underfull \hbox (badness 5161) in paragraph at lines 94--94
+\T1/ppl/m/n/7 (+20) dis-tributed un-der the terms and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[][]\T1/ppl/m/n/7 (+20) cre-ativecom-mons.org/licenses/by/[][]
+ []
+
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 9
+4.
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1ppl.fd
+File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
+)
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
+94.
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/psnfss\omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
+94.
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/psnfss\omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
+94.
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/psnfss\omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 94.
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 94.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 94.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 10.42007pt on input line 94.
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.91925pt on input line 94.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 6.25204pt on input line 94.
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
+94.
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/psnfss\ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `zplm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+(C:\Users\ACER\AppData\Roaming\MiKTeX\tex/latex/microtype\mt-eur.cfg
+File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
+)
+LaTeX Font Info:    Redeclaring symbol font `AMSb' on input line 94.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `normal'
+(Font)                  U/msb/m/n --> U/msb/m/n on input line 94.
+LaTeX Font Info:    Overwriting symbol font `AMSb' in version `bold'
+(Font)                  U/msb/m/n --> U/msb/m/n on input line 94.
+Package marginnote Info: Margin note 1.1 is on absolute page 1 on input line 94
+.
+Package marginnote Info: right page because not two side mode on input line 94.
+
+Package epstopdf Info: Source file: <Definitions/logo-updates.eps>
+(epstopdf)                    date: 2024-09-23 14:39:41
+(epstopdf)                    size: 253542 bytes
+(epstopdf)             Output file: <Definitions/logo-updates-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-23 14:40:48
+(epstopdf)                    size: 15563 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=Definitions/logo-upd
+ates-eps-converted-to.pdf Definitions/logo-updates.eps>
+(epstopdf)             \includegraphics on input line 94.
+Package epstopdf Info: Output file is already uptodate.
+File: Definitions/logo-updates-eps-converted-to.pdf Graphic file (type pdf)
+<use Definitions/logo-updates-eps-converted-to.pdf>
+Package pdftex.def Info: Definitions/logo-updates-eps-converted-to.pdf  used on
+ input line 94.
+(pdftex.def)             Requested size: 51.40193pt x 17.07182pt.
+Package epstopdf Info: Source file: <Definitions/logo-ccby.eps>
+(epstopdf)                    date: 2024-09-23 14:39:40
+(epstopdf)                    size: 484140 bytes
+(epstopdf)             Output file: <Definitions/logo-ccby-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2024-09-23 14:39:40
+(epstopdf)                    size: 12001 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=Definitions/logo-ccb
+y-eps-converted-to.pdf Definitions/logo-ccby.eps>
+(epstopdf)             \includegraphics on input line 94.
+Package epstopdf Info: Output file is already uptodate.
+File: Definitions/logo-ccby-eps-converted-to.pdf Graphic file (type pdf)
+<use Definitions/logo-ccby-eps-converted-to.pdf>
+Package pdftex.def Info: Definitions/logo-ccby-eps-converted-to.pdf  used on in
+put line 94.
+(pdftex.def)             Requested size: 56.9055pt x 19.91693pt.
+
+Underfull \hbox (badness 5161) in paragraph at lines 94--94
+\T1/ppl/m/n/7 (+20) dis-tributed un-der the terms and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--94
+[][]\T1/ppl/m/n/7 (+20) cre-ativecom-mons.org/licenses/by/[][]
+ []
+
+Package marginnote Info: xpos seems to be 167.01753pt on input line 94.
+Package epstopdf Info: Source file: <Definitions/applsci-logo.eps>
+(epstopdf)                    date: 2024-09-23 14:39:40
+(epstopdf)                    size: 276558 bytes
+(epstopdf)             Output file: <Definitions/applsci-logo-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2024-09-23 14:39:40
+(epstopdf)                    size: 17404 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=Definitions/applsci-
+logo-eps-converted-to.pdf Definitions/applsci-logo.eps>
+(epstopdf)             \includegraphics on input line 94.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./Definitions/applsci-logo-eps-converted-to.
+pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+
+<Definitions/applsci-logo-eps-converted-to.pdf, id=126, 220.825pt x 54.2025pt>
+File: Definitions/applsci-logo-eps-converted-to.pdf Graphic file (type pdf)
+<use Definitions/applsci-logo-eps-converted-to.pdf>
+Package pdftex.def Info: Definitions/applsci-logo-eps-converted-to.pdf  used on
+ input line 94.
+(pdftex.def)             Requested size: 139.107pt x 34.14322pt.
+Package epstopdf Info: Source file: <Definitions/logo-mdpi.eps>
+(epstopdf)                    date: 2024-09-23 14:39:40
+(epstopdf)                    size: 736786 bytes
+(epstopdf)             Output file: <Definitions/logo-mdpi-eps-converted-to.pdf
+>
+(epstopdf)                    date: 2024-09-23 14:39:40
+(epstopdf)                    size: 43966 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=Definitions/logo-mdp
+i-eps-converted-to.pdf Definitions/logo-mdpi.eps>
+(epstopdf)             \includegraphics on input line 94.
+Package epstopdf Info: Output file is already uptodate.
+
+
+pdfTeX warning: pdflatex.exe (file ./Definitions/logo-mdpi-eps-converted-to.pdf
+): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Definitions/logo-mdpi-eps-converted-to.pdf, id=128, 88.33pt x 58.2175pt>
+File: Definitions/logo-mdpi-eps-converted-to.pdf Graphic file (type pdf)
+<use Definitions/logo-mdpi-eps-converted-to.pdf>
+Package pdftex.def Info: Definitions/logo-mdpi-eps-converted-to.pdf  used on in
+put line 94.
+(pdftex.def)             Requested size: 43.16885pt x 28.45274pt.
+<Definitions/logo-orcid.pdf, id=130, 102.3825pt x 102.3825pt>
+File: Definitions/logo-orcid.pdf Graphic file (type pdf)
+<use Definitions/logo-orcid.pdf>
+Package pdftex.def Info: Definitions/logo-orcid.pdf  used on input line 94.
+(pdftex.def)             Requested size: 9.10509pt x 9.10466pt.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 94.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 94.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 8.33606pt on input line 94.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.21004pt on input line 94.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 20.0pt, for example:
+(fancyhdr)                \setlength{\headheight}{20.0pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-8.0pt}.
+
+[1
+
+{C:/Users/ACER/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{E:/Program Fil
+es/MiKTeX/fonts/enc/dvips/base/8r.enc} <./Definitions/logo-updates-eps-converte
+d-to.pdf> <./Definitions/logo-ccby-eps-converted-to.pdf> <./Definitions/applsci
+-logo-eps-converted-to.pdf> <./Definitions/logo-mdpi-eps-converted-to.pdf> <./D
+efinitions/logo-orcid.pdf>]
+<figures/overview.png, id=186, 552.6246pt x 238.0092pt>
+File: figures/overview.png Graphic file (type png)
+<use figures/overview.png>
+Package pdftex.def Info: figures/overview.png  used on input line 109.
+(pdftex.def)             Requested size: 354.91728pt x 152.86649pt.
+<figures/cct_block.png, id=189, 237.13594pt x 114.27693pt>
+File: figures/cct_block.png Graphic file (type png)
+<use figures/cct_block.png>
+Package pdftex.def Info: figures/cct_block.png  used on input line 117.
+(pdftex.def)             Requested size: 180.67499pt x 87.07106pt.
+<figures/circuit.png, id=190, 1161.58969pt x 766.36313pt>
+File: figures/circuit.png Graphic file (type png)
+<use figures/circuit.png>
+Package pdftex.def Info: figures/circuit.png  used on input line 118.
+(pdftex.def)             Requested size: 180.67499pt x 119.19434pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.18001pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.18001pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.18001pt}.
+
+[2]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<figures/BodePlot.png, id=207, 1925.69438pt x 973.38657pt>
+File: figures/BodePlot.png Graphic file (type png)
+<use figures/BodePlot.png>
+Package pdftex.def Info: figures/BodePlot.png  used on input line 148.
+(pdftex.def)             Requested size: 394.35522pt x 199.32274pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.18001pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.18001pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.18001pt}.
+
+[3 <./figures/overview.png> <./figures/cct_block.png> <./figures/circuit.png>]
+<figures/rumblefiltered.jpg, id=217, 958.782pt x 236.082pt>
+File: figures/rumblefiltered.jpg Graphic file (type jpg)
+<use figures/rumblefiltered.jpg>
+Package pdftex.def Info: figures/rumblefiltered.jpg  used on input line 160.
+(pdftex.def)             Requested size: 394.35522pt x 97.10403pt.
+
+
+LaTeX Warning: Reference `figure/rumblespecrum' on page 4 undefined on input li
+ne 164.
+
+<figures/rumblespectrum.jpg, id=218, 446.41782pt x 321.45094pt>
+File: figures/rumblespectrum.jpg Graphic file (type jpg)
+<use figures/rumblespectrum.jpg>
+Package pdftex.def Info: figures/rumblespectrum.jpg  used on input line 166.
+(pdftex.def)             Requested size: 276.04744pt x 198.77269pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.18001pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.18001pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.18001pt}.
+
+[4 <./figures/BodePlot.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.18001pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.18001pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.18001pt}.
+
+[5 <./figures/rumblefiltered.jpg> <./figures/rumblespectrum.jpg>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.18001pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.18001pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.18001pt}.
+
+[6]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.18001pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.18001pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.18001pt}.
+
+[7]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.18001pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.18001pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.18001pt}.
+
+[8]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
+23.
+ (E:\Program Files\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+<figures/algo.png, id=282, 208.3785pt x 203.5605pt>
+File: figures/algo.png Graphic file (type png)
+<use figures/algo.png>
+Package pdftex.def Info: figures/algo.png  used on input line 346.
+(pdftex.def)             Requested size: 142.26378pt x 138.97528pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.18001pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.18001pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.18001pt}.
+
+[9]
+<figures/PinnawalaMap.png, id=294, 603.2136pt x 344.487pt>
+File: figures/PinnawalaMap.png Graphic file (type png)
+<use figures/PinnawalaMap.png>
+Package pdftex.def Info: figures/PinnawalaMap.png  used on input line 354.
+(pdftex.def)             Requested size: 325.215pt x 185.7311pt.
+<figures/rumble.png, id=297, 245.11575pt x 134.904pt>
+File: figures/rumble.png Graphic file (type png)
+<use figures/rumble.png>
+Package pdftex.def Info: figures/rumble.png  used on input line 360.
+(pdftex.def)             Requested size: 289.07999pt x 159.1133pt.
+<figures/tworumbles.png, id=299, 634.16925pt x 322.806pt>
+File: figures/tworumbles.png Graphic file (type png)
+<use figures/tworumbles.png>
+Package pdftex.def Info: figures/tworumbles.png  used on input line 368.
+(pdftex.def)             Requested size: 361.34999pt x 183.93729pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.18001pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.18001pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.18001pt}.
+
+[10 <./figures/algo.png> <./figures/PinnawalaMap.png>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.18001pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.18001pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.18001pt}.
+
+[11
+pdfTeX warning (ext4): destination with the same identifier (name{equation.6.17
+}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.387 \subsection{Performance Comparison}
+                                          <./figures/rumble.png> <./figures/two
+rumbles.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
+
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.18001pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.18001pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.18001pt}.
+
+[12]
+<figures/RidgeFull.png, id=345, 499.3857pt x 395.3169pt>
+File: figures/RidgeFull.png Graphic file (type png)
+<use figures/RidgeFull.png>
+Package pdftex.def Info: figures/RidgeFull.png  used on input line 556.
+(pdftex.def)             Requested size: 252.94499pt x 200.23363pt.
+<figures/DesFull.png, id=346, 499.3857pt x 395.3169pt>
+File: figures/DesFull.png Graphic file (type png)
+<use figures/DesFull.png>
+Package pdftex.def Info: figures/DesFull.png  used on input line 560.
+(pdftex.def)             Requested size: 252.94499pt x 200.23363pt.
+<figures/LGBMFull.png, id=347, 499.3857pt x 395.3169pt>
+File: figures/LGBMFull.png Graphic file (type png)
+<use figures/LGBMFull.png>
+Package pdftex.def Info: figures/LGBMFull.png  used on input line 564.
+(pdftex.def)             Requested size: 252.94499pt x 200.23363pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.18001pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.18001pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.18001pt}.
+
+[13]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.18001pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.18001pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.18001pt}.
+
+[14 <./figures/RidgeFull.png> <./figures/DesFull.png> <./figures/LGBMFull.png>]
+
+Overfull \hbox (116.42537pt too wide) in paragraph at lines 589--590
+[]\T1/ppl/m/n/10 (-20) The video of the tra-di-tional and bird take-off can be 
+found at, https://www.youtube.com/watch?v=cu8rdGvTDYY 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.18001pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.18001pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.18001pt}.
+
+[15] 
+AED: lastpage setting LastPage
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 18.18001pt, for example:
+(fancyhdr)                \setlength{\headheight}{18.18001pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.18001pt}.
+
+[16] (RumbleMDPI.aux)
+
+LaTeX Warning: There were undefined references.
+
+Package rerunfilecheck Info: File `RumbleMDPI.out' has not changed.
+(rerunfilecheck)             Checksum: 752B30E77BCDC182A99F082342A649FE;5312.
+ ) 
+Here is how much of TeX's memory you used:
+ 34494 strings out of 476315
+ 649832 string characters out of 5797014
+ 1880068 words of memory out of 5000000
+ 53783 multiletter control sequences out of 15000+600000
+ 574719 words of font info for 374 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 123i,19n,120p,1755b,631s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\ACER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt0
+900.pk> <C:\Users\ACER\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
+ectt1000.pk><E:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+<E:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><E:/Program 
+Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><E:/Program Files/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ACER/AppData/Roaming/MiKTeX
+/fonts/type1/public/mathpazo/fplmr.pfb><C:/Users/ACER/AppData/Roaming/MiKTeX/fo
+nts/type1/public/mathpazo/fplmri.pfb><E:/Program Files/MiKTeX/fonts/type1/urw/p
+alatino/uplb8a.pfb><E:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplr8a.pfb
+><E:/Program Files/MiKTeX/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on RumbleMDPI.pdf (16 pages, 7480498 bytes).
+PDF statistics:
+ 473 PDF objects out of 1000 (max. 8388607)
+ 106 named destinations out of 1000 (max. 500000)
+ 85823 words of extra memory for PDF output out of 89155 (max. 10000000)
+
